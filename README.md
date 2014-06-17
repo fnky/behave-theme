@@ -38,4 +38,4 @@ I'd love to have this theme available for your editor! I'm still working on push
 
 ## I wanna hug you right now
 
-That's sweet of you! You can me on Twitter [@fnky](http://twitter.com/fnky) - that makes me happy too.
+That's sweet of you! You can add me on Twitter [@fnky](http://twitter.com/fnky) - that makes me happy too.
