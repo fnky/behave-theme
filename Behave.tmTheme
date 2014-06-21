@@ -53,7 +53,7 @@
             <key>name</key>
             <string>Variable, String Link, Regular Expression, Tag Name</string>
             <key>scope</key>
-            <string>variable, support.other.variable, variable.parameter, string.other.link, string.regexp, declaration.tag</string>
+            <string>variable, support.other.variable, variable.parameter, string.other.link, string.regexp, declaration.tag, meta.structure.dictionary string.quoted.double</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -90,7 +90,7 @@
             <key>name</key>
             <string>String, Symbols, Inherited Class, Markup Heading</string>
             <key>scope</key>
-            <string>string, constant.other.symbol, entity.other.inherited-class, markup.heading</string>
+            <string>string, constant.other.symbol, entity.other.inherited-class, markup.heading, meta.structure.dictionary.value string.quoted.double</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
