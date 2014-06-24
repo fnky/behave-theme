@@ -260,6 +260,24 @@
             </dict>
         </dict>
         <dict>
+            <key>scope</key>
+            <string>constant.numeric.line-number.find-in-files - match</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c9a9f9A0</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>scope</key>
+            <string>entity.name.filename.find-in-files</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#f0d879</string>
+            </dict>
+        </dict>
+        <dict>
             <key>name</key>
             <string>Invalid</string>
             <key>scope</key>
