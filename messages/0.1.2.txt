@@ -1,0 +1,6 @@
+Behave Color Scheme 0.1.2 Changelog
+
+- Fixed syntax highlighting for ES6 using JavaScript Next syntax.
+- Changes some syntax color for delimiters (periods, braces, etc.)
+
+Thank you for using Behave Color Scheme. If you like it so far, give it a shoutout anywhere and follow me on Twitter at @chrbp
