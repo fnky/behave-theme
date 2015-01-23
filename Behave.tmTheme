@@ -77,7 +77,7 @@
             <key>name</key>
             <string>Class, Support</string>
             <key>scope</key>
-            <string>entity.name.class, meta.class, entity.name.type.class, support.type, support.class, meta.instance.constructor, meta.property.class, variable.other.class, class.name</string>
+            <string>entity.name.class, entity.name.type.instance, entity.name.instance, support.type, support.class, meta.instance.constructor, meta.property.class, variable.other.class, class.name</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
