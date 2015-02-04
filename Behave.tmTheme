@@ -40,7 +40,7 @@
             <key>name</key>
             <string>Foreground</string>
             <key>scope</key>
-            <string>keyword.operator.class, constant.other, source.php.embedded.line</string>
+            <string>keyword.operator.class, constant.other, source.php.embedded.line, meta.method punctuation.definition, meta.method punctuation.separator</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -53,7 +53,7 @@
             <key>name</key>
             <string>Variable, String Link, Regular Expression, Tag Name</string>
             <key>scope</key>
-            <string>variable, support.other.variable, variable.parameter, string.other.link, string.regexp, declaration.tag, meta.expression.body.function, variable.parameter, variable.other, meta.method, meta.property</string>
+            <string>variable, support.other.variable, variable.parameter, string.other.link, string.regexp, declaration.tag, meta.expression.body.function, variable.parameter</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -77,7 +77,7 @@
             <key>name</key>
             <string>Class, Support</string>
             <key>scope</key>
-            <string>entity.name.class, meta.class, entity.name.type.class, support.type, support.class, meta.instance.constructor, meta.property.class, variable.other.class, class.name, variable.other.class</string>
+            <string>entity.name.class, entity.name.type.instance, entity.name.instance, support.type, support.class, meta.instance.constructor, meta.property.class, variable.other.class, class.name</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -101,19 +101,6 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Misc., Braces, Periods, Delimiter etc.</string>
-            <key>scope</key>
-            <string>meta.brace.curly, meta.brace.square, meta.brace.round, meta.delimiter, punctuation.definition.parameters, punctuation.terminator.statement, punctuation.definition.parameters.begin, punctuation.definition.parameters.end, punctuation.separator.parameter, meta.delimiter.method.period, meta.delimiter.object.comma</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string></string>
-                <key>foreground</key>
-                <string>#D2D8E1</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
             <string>Operator, Misc</string>
             <key>scope</key>
             <string>keyword.operator, entity.other.attribute-name, constant.other.color, constant.character</string>
@@ -127,7 +114,7 @@
             <key>name</key>
             <string>Function, Special Method, Block Level</string>
             <key>scope</key>
-            <string>entity.name.method, entity.name.function, meta.function.static, meta.function-call, support.function, keyword.other.special-method, meta.block-level, function.name, entity.name.accessor</string>
+            <string>entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.method, meta.accessor, meta.block-level, function.name</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -140,7 +127,7 @@
             <key>name</key>
             <string>Keyword, Storage</string>
             <key>scope</key>
-            <string>keyword, storage, storage.type, entity.name.tag.css, meta.tag, entity.name.tag, variable.language.super, variable.language.this</string>
+            <string>keyword, storage, storage.type, entity.name.tag.css, meta.tag, entity.name.tag</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -166,7 +153,7 @@
             <key>name</key>
             <string>TypeScript Class</string>
             <key>scope</key>
-            <string>meta.expression.body.class, meta.class</string>
+            <string>meta.expression.body.class.ts, meta.class.ts</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
