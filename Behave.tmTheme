@@ -77,7 +77,7 @@
             <key>name</key>
             <string>Class, Support</string>
             <key>scope</key>
-            <string>entity.name.class, entity.name.type.instance, entity.name.instance, support.type, support.class, meta.instance.constructor, meta.property.class, variable.other.class, class.name</string>
+            <string>entity.name.class, entity.name.type.instance, entity.name.instance, meta.instance.constructor, meta.property.class, variable.other.class, class.name, support.type, support.class, storage.type</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -90,7 +90,7 @@
             <key>name</key>
             <string>String, Symbols, Inherited Class, Markup Heading</string>
             <key>scope</key>
-            <string>string, constant.other.symbol, entity.other.inherited-class</string>
+            <string>string, punctuation.definition.string, constant.other.symbol, entity.other.inherited-class</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -103,7 +103,7 @@
             <key>name</key>
             <string>Operator, Misc</string>
             <key>scope</key>
-            <string>keyword.operator, entity.other.attribute-name, constant.other.color, constant.character</string>
+            <string>keyword.operator, keyword.control, entity.other.attribute-name, constant.other.color, constant.character</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -114,7 +114,7 @@
             <key>name</key>
             <string>Function, Special Method, Block Level</string>
             <key>scope</key>
-            <string>entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.method, meta.accessor, meta.block-level, function.name</string>
+            <string>entity.name.function, support.function, keyword.other.special-method, meta.method, meta.accessor, meta.block-level, function.name</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -127,13 +127,24 @@
             <key>name</key>
             <string>Keyword, Storage</string>
             <key>scope</key>
-            <string>keyword, storage, storage.type, entity.name.tag.css, meta.tag, entity.name.tag</string>
+            <string>keyword, storage, storage.type.class, entity.name.tag.css, meta.tag, entity.name.tag</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
                 <string>#5ab8e5</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Java Methods</string>
+            <key>scope</key>
+            <string>meta.method.body.java</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#61d29d</string>
             </dict>
         </dict>
         <dict>
