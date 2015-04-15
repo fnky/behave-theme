@@ -140,11 +140,11 @@
             <key>name</key>
             <string>Java Methods</string>
             <key>scope</key>
-            <string>meta.method.body.java</string>
+            <string>meta.method.body.java, meta.method.identifier.java, meta.method.return-type.java</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#61d29d</string>
+                <string>#d2d8e1</string>
             </dict>
         </dict>
         <dict>
