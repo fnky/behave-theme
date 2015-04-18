@@ -1,0 +1,7 @@
+Behave Color Scheme 0.1.3 Changelog
+
+- Fixed some Java Syntax
+
+Thank you for using Behave Color Scheme. If you like it so far, give it a shoutout anywhere and follow me on Twitter at @chrbp
+
+If you find any issues or missing languages, file a report at https://github.com/fnky/behave-theme/issues
