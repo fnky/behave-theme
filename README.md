@@ -30,7 +30,7 @@ into your Package Control folder. You can find that through Sublime Text under `
 
 Don't worry, it's not your fault - probably. I'm still working out some better syntax highlight for different languages. But you can help me out!
 
-Simply create an thread in the Issues tab, and explain what the problem is. Even better; you can fork this repository and make your changes in another branch and make a pull request :-)
+Simply create a thread in the Issues tab, and explain what the problem is. Even better; you can fork this repository and make your changes in another branch and make a pull request :-)
 
 ## I want this for my editor
 
